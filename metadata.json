@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant POS System",
+  "description": "An enterprise-grade full-stack restaurant POS system featuring POS transactions, kitchen execution, table mapping, inventory oversight, QR ordering, and analytics dashboard.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
